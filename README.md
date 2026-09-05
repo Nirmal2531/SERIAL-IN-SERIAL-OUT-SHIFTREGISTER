@@ -66,4 +66,6 @@ Developed by:NIRMAL RAAJ S RegisterNumber:212225040283
 <img width="1917" height="1078" alt="Screenshot 2026-09-05 083634" src="https://github.com/user-attachments/assets/ac885bcb-14b6-440b-9597-24bfca075771" />
 
 **RESULTS**
+
+
 The 4-bit Serial-In Serial-Out (SISO) Shift Register was successfully designed and implemented using Verilog HDL in Quartus Prime. The functional behavior of the circuit was validated through simulation waveforms, confirming that data shifts sequentially through the flip-flops on every positive edge of the clock signal.
